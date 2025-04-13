@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knoxiboy
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning DSA in java
 - 📫 Mail : karankmt.tripathi@gmail.com
 - 📫 Linkedin : https://www.linkedin.com/in/karan-mani-tripathi-b66bb530b/
 - 😄 Pronouns: he/him
